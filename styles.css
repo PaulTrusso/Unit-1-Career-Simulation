@@ -51,9 +51,21 @@ section{
     position: fixed;
    right: 50%;
 }
+
+/* home page styling */
+#homename{
+    font-size: xx-large;
+}
 h1{
    text-align: center;
    margin-bottom: 20px;
+}
+#homeh3{
+    font-size: x-large;
+}
+#homep{
+    font-size: larger;
+    text-align: center;
 }
 h3{
     text-align: center;
